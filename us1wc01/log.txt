@@ -1,0 +1,516 @@
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
+Warning 1: The output driver does not natively support StringList type for field LNAM_REFS. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type StringList on shapefile layers.
+Warning 1: The output driver does not natively support IntegerList type for field FFPT_RIND. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+ERROR 6: Can't create fields of type IntegerList on shapefile layers.
