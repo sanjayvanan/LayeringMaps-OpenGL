@@ -1,5 +1,6 @@
 import QtQuick 2.15
 import QtQuick.Window 2.15
+import QtQuick.Controls 2.15
 import CustomComponents 1.0
 
 Window {
@@ -20,7 +21,7 @@ Window {
             anchors.fill: parent
             pinch.target: shapefileRenderer
             pinch.minimumScale: 0.1
-            pinch.maximumScale: 10
+            pinch.maximumScale: 50
 
             onPinchUpdated: {
                 shapefileRenderer.zoom = pinch.scale
@@ -53,6 +54,26 @@ Window {
                         shapefileRenderer.zoom /= zoomFactor
                     }
                 }
+            }
+        }
+    }
+
+    Rectangle {
+        anchors.right: parent.right
+        anchors.top: parent.top
+        anchors.margins: 10
+        width: 200
+        height: 300
+        color: "white"
+        border.color: "black"
+
+        ListView {
+            anchors.fill: parent
+            model: shapefileRenderer.availableLayers
+            delegate: CheckBox {
+                text: modelData
+                checked: shapefileRenderer.selectedLayers.indexOf(modelData) !== -1
+                onCheckedChanged: shapefileRenderer.toggleLayer(modelData)
             }
         }
     }

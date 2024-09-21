@@ -6,7 +6,6 @@ int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
 
-    // Register the ShapefileRenderer type
     qmlRegisterType<ShapefileRenderer>("CustomComponents", 1, 0, "ShapefileRenderer");
 
     QQmlApplicationEngine engine;
